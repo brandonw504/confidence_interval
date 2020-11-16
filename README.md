@@ -1,1 +1,1 @@
-# confidence_interval
+# Confidence Interval Program
